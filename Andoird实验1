@@ -1,1 +1,43 @@
+# 安装流程
+
+## 一、Android Studio 4.1+ 安装（Koala版本）
+
+### 1. 系统要求
+- Windows 10 (64位) / macOS 10.14+ / Linux (Ubuntu 18.04+)
+- 8GB RAM（推荐16GB）
+- 4GB 可用磁盘空间
+
+### 2. 安装步骤 
+
+​	(由于去年上安卓课下载过了，所以缺少安装过程截图)
+
+1. **下载安装包**  
+   访问[官方下载页面](https://developer.android.google.cn/studio?hl=zh-cn) 
+   ![image-20250416205111393](./image/image-20250416205111393.png)
+
+   选择一个下载
+
+   ![image-20250416205914486](./image/image-20250416205914486.png)
+
+​	2. **运行安装程序**  
+
+```bash
+
+android-studio-2024.3.1.14-windows.exe
+
+```
+
+​	3. **安装成功运行，点击【finish】，直接运行**
+
+​	4. **新建Project，会弹出安装SDK**
+
+​	5.  **运行测试，下载gradle**
+
+​	6. **创建一个模拟器**
+
+![image-20250416212629847](image/image-20250416212629847.png)
+
+​	7.运行成功
+
+![image-20250416212058115](image/image-20250416212058115.png)
 
